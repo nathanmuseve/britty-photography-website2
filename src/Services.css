@@ -1,0 +1,15 @@
+.services-overall{
+    display: flex;
+    gap: 1rem
+}
+.services-text button{
+    padding: 5px;
+    color: black;
+    background-color:rgb(117, 124, 117);
+    border-color: rgb(117, 124, 117);
+    box-shadow: 0 0 1px rgb(117, 124, 117);
+}
+.service{
+    margin-top: 1rem;
+    background-color: rgb(221, 209, 209);
+}

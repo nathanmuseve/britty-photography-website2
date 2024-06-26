@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+
+}
+.Navbar-overall{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(221, 209, 209);
+    box-shadow: 0 0 1px rgb(117, 124, 117);
+    
+}
+.Navbar-title{
+     padding: 1rem;
+     color: rgb(117, 124, 117);
+}
+.Navbar-links ul{
+    display: flex;
+    gap: 2rem;
+}
+
+.Navbar-links ul{
+    text-decoration: none; 
+    list-style: none;
+}
+.Navbar-links ul li a {
+    text-decoration: none;
+    color: rgb(117, 124, 117);
+}

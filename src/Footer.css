@@ -1,0 +1,23 @@
+*{
+    margin:0 ;
+    padding: 0;
+}
+.overall-footer{
+    display: flex;
+    gap: 4rem;
+    background-color: rgb(117, 124, 117);
+    color: black;
+}
+#email22{
+    padding: 20px;
+    background-color: rgb(117, 124, 117);
+    color: black;
+ 
+}
+.text{
+    padding-top: 2rem;
+    display: flex;
+}
+#icons{
+    gap: 1rem;
+}

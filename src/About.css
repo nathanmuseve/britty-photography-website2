@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.About-overall{
+    display: flex;
+    padding: 3rem;
+    background-color: rgb(221, 209, 209);
+    gap: 1rem;
+
+}
+.About-text h3{
+    font-size: 30px;
+    padding: 1rem;
+
+}
+.About-text button{
+    padding: 5px;
+    color: black;
+    background-color:rgb(117, 124, 117);
+    border-color: rgb(117, 124, 117);
+    box-shadow: 0 0 1px rgb(117, 124, 117);
+}

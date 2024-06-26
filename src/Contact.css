@@ -1,0 +1,41 @@
+#overall-contact{
+    background-color: rgba(221, 209, 209);
+    display: flex;
+    gap: 4rem;
+}
+.Britty{
+    background-color: rgba(221, 209, 209);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(221, 209, 209);
+
+}
+#name{
+ width: 50%;
+}
+
+textarea{
+    width: 50%;
+    height: 45%;
+}
+#email{
+    width: 50%;
+    
+}
+button{
+    padding: 5px;
+    color: black;
+    background-color:rgb(117, 124, 117);
+    border-color: rgb(117, 124, 117);
+    box-shadow: 0 0 1px rgb(117, 124, 117);
+    width: 5rem;
+}
+.first-contact{
+    display: flex;
+}
+form textarea{
+    padding: 5rem;
+}
