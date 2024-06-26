@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/britty-photography-website2/static/css/main.e13b68cb.css",
+    "main.js": "/britty-photography-website2/static/js/main.bfe8466d.js",
+    "static/media/prof.webp": "/britty-photography-website2/static/media/prof.5f5c41a70e23aa74b1a4.webp",
+    "index.html": "/britty-photography-website2/index.html",
+    "main.e13b68cb.css.map": "/britty-photography-website2/static/css/main.e13b68cb.css.map",
+    "main.bfe8466d.js.map": "/britty-photography-website2/static/js/main.bfe8466d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e13b68cb.css",
+    "static/js/main.bfe8466d.js"
+  ]
+}
